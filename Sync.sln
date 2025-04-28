@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync.Api", "src\Sync.Api\Sync.Api.csproj", "{1A2B3C4D-5E6F-7G8H-9I0J-K1L2M3N4O5P}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync.Web", "src\Sync.Web\Sync.Web.csproj", "{6P7Q8R9S-0T1U-2V3W-X4Y5Z6A7B8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync.Common", "src\Sync.Common\Sync.Common.csproj", "{D0E1F2G3-4H5I-6J7K-L8M9N0O1P2Q}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync.Api.Tests", "tests\Sync.Api.Tests\Sync.Api.Tests.csproj", "{R3S4T5U6-7V8W-9X0Y-Z1A2B3C4D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync.Web.Tests", "tests\Sync.Web.Tests\Sync.Web.Tests.csproj", "{F6G7H8I9-0J1K-2L3M-N4O5P6Q7R8S}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndSolutionSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {1A2B3C4D-5E6F-7G8H-9I0J-K1L2M3N4O5P}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {1A2B3C4D-5E6F-7G8H-9I0J-K1L2M3N4O5P}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {6P7Q8R9S-0T1U-2V3W-X4Y5Z6A7B8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {6P7Q8R9S-0T1U-2V3W-X4Y5Z6A7B8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {D0E1F2G3-4H5I-6J7K-L8M9N0O1P2Q}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D0E1F2G3-4H5I-6J7K-L8M9N0O1P2Q}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {R3S4T5U6-7V8W-9X0Y-Z1A2B3C4D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {R3S4T5U6-7V8W-9X0Y-Z1A2B3C4D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {F6G7H8I9-0J1K-2L3M-N4O5P6Q7R8S}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {F6G7H8I9-0J1K-2L3M-N4O5P6Q7R8S}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    EndSolutionSection
+EndGlobal
